@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981471805765",
+    "project_id": "coachsigningpages",
+    "storage_bucket": "coachsigningpages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981471805765:android:ab5d5b2c8448ac89873e2c",
+        "android_client_info": {
+          "package_name": "com.example.coachsigningpages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981471805765-a4ng5np660h14pqvu7c5c6g6l50e5ier.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFDIEuMnWFd4SreB9sh012rCfMDOmnnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981471805765-a4ng5np660h14pqvu7c5c6g6l50e5ier.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
